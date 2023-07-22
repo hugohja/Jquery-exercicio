@@ -1,0 +1,31 @@
+*{
+
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+div {
+    margin-left: 42%;
+    margin-right: 50%
+}
+
+
+.finalizada {
+    text-decoration: line-through
+}
+
+button {
+    padding: 10px ;
+    background-color: rgba(255, 255, 255, 0.479);
+}
+
+#Nome-Da-Tarefa {
+    padding: 10px;
+    background-color: azure;
+}
+
